@@ -1,0 +1,8 @@
+http://945621.wix.com/mysite -O . +945621.wix.com/mysite/* -v
+File generated automatically on Tue, 03 May 2016 20:04:45, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
