@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-945621.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1462331085|1Rx0hGupcEKT
-.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
-.wix.com	TRUE	/	FALSE	1999999999	_wixCIDX	8d85091f-e455-4421-a812-20353ec9b10e
-.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
-.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	da4aa46a-9417-44d4-a13b-be6f3f5cf27b
-
